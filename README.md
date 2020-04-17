@@ -1,2 +1,4 @@
-# Currency-Conversion-with-Menu
-Menu-based program to perform various currency conversions
+# BASIC Currency-Conversion-with-Menu
+This program is a Microsoft BASIC menu-based program to perform various currency conversions.
+
+
